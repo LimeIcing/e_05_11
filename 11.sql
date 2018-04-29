@@ -1,0 +1,2 @@
+SELECT * FROM Booking
+WHERE dateTo IS NULL;
